@@ -1,0 +1,1 @@
+import{_ as e,c as t,o}from"./chunks/framework.CmIoOw1s.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"contents/code_style.md","filePath":"contents/code_style.md"}'),s={name:"contents/code_style.md"};function c(n,a,r,_,d,l){return o(),t("div")}const m=e(s,[["render",c]]);export{i as __pageData,m as default};
